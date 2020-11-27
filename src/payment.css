@@ -1,0 +1,64 @@
+p {
+  margin: 0%;
+}
+
+.payment{
+  background-color: white;
+  
+}
+.h3tag{
+  padding-right: 10px;
+  margin: 0px;
+}
+
+.payment_container > h1 a {
+  text-decoration: none;
+}
+
+.payment_container > h1{
+ 
+  text-align: center;
+  padding: 10px;
+  font-weight: 400;
+  background-color: rgb(234, 237, 237);
+  border-bottom: 1px solid lightgray;
+}
+
+.payment_section {
+  display: flex;
+  padding: 20px;
+  margin: 0 20px;
+  border-bottom: 1px solid lightgray;
+}
+
+.payment__title {
+  flex: 0.2;
+}
+
+.address, .payment_items, .payment_mode{
+  flex: 0.8;
+}
+
+.payment_mode > form {
+  max-width: 400px;
+}
+
+.payment_mode > h3 {
+  padding-bottom: 20px;
+}
+
+.Basketproduct {
+  margin-top: 10px;
+}
+
+.payment_mode > form > div > button {
+  background: #f0c14b;
+  border-radius: 2px;
+  width: 100%;
+  height: 30px;
+  border: 1px solid;
+  font-weight: bolder;
+  margin-top: 10px;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: #111;
+}
