@@ -1,4 +1,4 @@
-Project live on - eshop-85231.web.app
+Project live on - https://eshop-85231.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
