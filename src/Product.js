@@ -19,7 +19,7 @@ function Product({ id, title, image, price, rating }) {
 
   return (
     <div className="product">
-      <div className=" info">
+      <div className=" info" data-wow-delay="0.2s">
         <p>{title}</p>
         <p className="porduct_price">
           <small>₹</small>

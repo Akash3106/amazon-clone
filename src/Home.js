@@ -8,7 +8,7 @@ function Home() {
       <div className="home_container">
         <img
           className="home_img"
-          src="https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/jupiter20/teaser2/GW/3_Desktop-Hero_1x._CB403313252_.jpg"
+          src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/BAU/Winterfurnishing/1500x600._CB416144849_.jpg"
           alt="bg-img"
         />
         {/* <div
